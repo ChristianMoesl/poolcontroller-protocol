@@ -1,0 +1,22 @@
+{
+  "name": "poolcontroller-protocol",
+  "version": "1.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristianMoesl/poolcontroller-protocol.git"
+  },
+  "author": "Christian Mösl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChristianMoesl/poolcontroller-protocol/issues"
+  },
+  "homepage": "https://github.com/ChristianMoesl/poolcontroller-protocol#readme",
+  "devDependencies": {
+    "typescript": "2.3.3"
+  }
+}
