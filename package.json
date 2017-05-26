@@ -1,9 +1,10 @@
 {
   "name": "poolcontroller-protocol",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
+    "build": "./node_modules/.bin/tsc",
     "test": "exit 0"
   },
   "repository": {
